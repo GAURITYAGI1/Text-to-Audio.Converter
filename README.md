@@ -68,4 +68,17 @@ The Web Speech API, which is used to convert text to speech, is currently suppor
 This project was inspired by the simplicity of text-to-speech functionalities and is built to demonstrate how easy it can be to implement using JavaScript and the Web Speech API.
 
 ---
+
+## Contributing
+
+Contributions are welcome! If you have suggestions or improvements, please submit a pull request or open an issue.
+
+---
+
+## Contact
+
+For any questions or feedback, you can reach out to [gaurityaggi7524@gmail.com](mailto:gaurityagi7524@gmail.com).
+
+---
+
 Made with by 💖 Gauri Tyagi.
