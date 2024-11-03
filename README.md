@@ -7,6 +7,8 @@ A simple text-to-audio converter built with HTML, CSS, and JavaScript. This proj
 - Convert typed text into audio
 - Simple, responsive UI
 
+  ---
+
 ### Technologies Used
 
 - **HTML** - Structure the page and create the input form
@@ -58,6 +60,7 @@ A live demo of this project can be hosted locally by following the setup instruc
 The Web Speech API, which is used to convert text to speech, is currently supported in Chrome, Firefox, and other major browsers. Please check compatibility if you experience issues.
 
 ---
+Made with by 💖 Gauri Tyagi.
 
 ### Acknowledgments
 
