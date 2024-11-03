@@ -60,10 +60,10 @@ A live demo of this project can be hosted locally by following the setup instruc
 The Web Speech API, which is used to convert text to speech, is currently supported in Chrome, Firefox, and other major browsers. Please check compatibility if you experience issues.
 
 ---
-Made with by 💖 Gauri Tyagi.
 
 ### Acknowledgments
 
 This project was inspired by the simplicity of text-to-speech functionalities and is built to demonstrate how easy it can be to implement using JavaScript and the Web Speech API.
 
 ---
+Made with by 💖 Gauri Tyagi.
