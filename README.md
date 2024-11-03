@@ -1,13 +1,14 @@
 ## Text-to-Audio Converter ▶
 
 A simple text-to-audio converter built with HTML, CSS, and JavaScript. This project uses the Web Speech API to transform typed text into spoken audio, providing an easy-to-use interface to listen to text.
+---
 
 ### Features
 
 - Convert typed text into audio
 - Simple, responsive UI
 
-  ---
+---
 
 ### Technologies Used
 
